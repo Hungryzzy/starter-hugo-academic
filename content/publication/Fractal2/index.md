@@ -9,12 +9,12 @@ authors:
   - Alexander Schied
   - admin
 
-date: '2013-07-01T00:00:00Z'
+date: '2021-01-01T00:00:00Z'
 doi: ''
 
 weight: 98
 
-abstract: 'We consider Weierstraß and Takagi–van der Waerden functions with critical degree of roughness. In this case, the functions have vanishing th variation for all $p > 1$ but are also nowhere differentiable and hence not of bounded variation either. We resolve this apparent puzzle by showing that these functions have finite, nonzero, and linear Wiener–Young Φ-variation along the sequence of $b$-adic partitions, where $\mathit{\Phi}(x) = x / \sqrt{1-x}$. For the Weierstraß functions, our proof is based on the martingale central limit theorem (CLT). For the Takagi–van der Waerden functions, we use the CLT for Markov chains if a certain parameter $b$ is odd, and the standard CLT for $b$ even.'
+abstract: 'We consider Weierstraß and Takagi–van der Waerden functions with critical degree of roughness. In this case, the functions have vanishing th variation for all $p > 1$ but are also nowhere differentiable and hence not of bounded variation either. We resolve this apparent puzzle by showing that these functions have finite, nonzero, and linear Wiener–Young Φ-variation along the sequence of $b$-adic partitions, where $\mathit{\Phi}(x) = x / \sqrt{-\log x}$. For the Weierstraß functions, our proof is based on the martingale central limit theorem (CLT). For the Takagi–van der Waerden functions, we use the CLT for Markov chains if a certain parameter $b$ is odd, and the standard CLT for $b$ even.'
 
 # Summary. An optional shortened abstract.
 summary: Statistics & Probability Letters, 2021
