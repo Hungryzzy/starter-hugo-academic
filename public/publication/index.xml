@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Zhenyuan Zhang</title>
+    <link>https://Hungryzzy.github.io/publication/</link>
+      <atom:link href="https://Hungryzzy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Hungryzzy.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://Hungryzzy.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Simultaneous Optimal Transport</title>
+      <link>https://Hungryzzy.github.io/publication/transport1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://Hungryzzy.github.io/publication/transport1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Limit Theorem for Bernoulli Convolutions and the Φ-Variation of Functions in the Takagi Class</title>
+      <link>https://Hungryzzy.github.io/publication/fractal3/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://Hungryzzy.github.io/publication/fractal3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A probabilistic approach to the Φ-variation of classical fractal functions with critical roughness</title>
+      <link>https://Hungryzzy.github.io/publication/fractal2/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Hungryzzy.github.io/publication/fractal2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On discrete-time self-similar processes with stationary increments</title>
+      <link>https://Hungryzzy.github.io/publication/self-similar1/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://Hungryzzy.github.io/publication/self-similar1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the 𝑝th variation of a class of fractal functions</title>
+      <link>https://Hungryzzy.github.io/publication/fractal1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://Hungryzzy.github.io/publication/fractal1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
