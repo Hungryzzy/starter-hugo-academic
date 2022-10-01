@@ -1,22 +1,23 @@
 ---
-title: 'A Limit Theorem for Bernoulli Convolutions and the Φ-Variation of Functions in the Takagi Class'
+title: 'Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xiyue Han
-  - Alexander Schied
+  - Haoyu Wang
+  - Jiaheng Wei
   - admin
 
 date: '2022-01-01T00:00:00Z'
 doi: ''
-weight: 97
+weight: 95
 
-abstract: 'We consider a probabilistic approach to compute the Wiener–Young Φ-variation of fractal functions in the Takagi class. Here, the Φ-variation is understood as a generalization of the quadratic variation or, more generally, the pth variation of a trajectory computed along the sequence of dyadic partitions of the unit interval. The functions Φ we consider form a very wide class of functions that are regularly varying at zero. Moreover, for each such function Φ, our results provide in a straightforward manner a large and tractable class of functions that have nontrivial and linear Φ-variation. As a corollary, we also construct stochastic processes whose sample paths have nontrivial, deterministic, and linear Φ-variation for each function Φ from our class. The proof of our main result relies on a limit theorem for certain sums of Bernoulli random variables that converge to an infinite Bernoulli convolution.'
+abstract: 'We introduce two models of consensus following a majority rule on time-evolving stochastic block models (SBM), in which the network evolution is Markovian or non-Markovian. Under the majority rule, in each round, each agent simultaneously updates his/her opinion according to the majority of his/her neighbors. Our network has a community structure and randomly evolves with time. In contrast to the classic setting, the dynamics is not purely deterministic, and reflects the structure of SBM by resampling the connections at each step, making agents with the same opinion more likely to connect than those with different opinions. In the Markovian model, connections between agents are resampled at each step according to the SBM law and each agent updates his/her opinion via the majority rule. We prove a power-of-one type result, i.e., any initial bias leads to a non-trivial advantage of winning in the end, uniformly in the size of the network. In the non-Markovian model, a connection between two agents is resampled according to the SBM law only when some of the two changes opinion and is otherwise kept the same. We study the phase transition between the fast convergence to the consensus and a halt of the dynamics. Moreover, we establish thresholds of the initial lead for various convergence speeds.'
 
 # Summary. An optional shortened abstract.
-summary: Journal of Theoretical Probability, 2022
+summary: In submission, 2022+
+
 
 tags: []
 
