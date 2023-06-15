@@ -30,10 +30,11 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: uploads/self-similar1.pdf
+- name: ArXiv
+  url: https://arxiv.org/abs/1904.08882
 
 url_pdf: ''
 url_code: ''

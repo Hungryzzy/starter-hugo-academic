@@ -24,10 +24,11 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# # Custom links (uncomment lines below)
-# links:
-# - name: PDF
-#   url: https://reader.elsevier.com/reader/sd/pii/S0167715220302236?token=830C091E33C18B6C28DE79637F2B2DCDA888B9538A5ACF938628E5F1E53F4A3A0F76AA77140752BBF199FCACF49C6329&originRegion=us-east-1&originCreation=20220815010821
+links:
+- name: PDF
+  url: uploads/Fractal2.pdf
+- name: ArXiv
+  url: https://arxiv.org/abs/2009.05420
 
 url_pdf: ''
 url_code: ''

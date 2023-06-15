@@ -46,10 +46,12 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# # Custom links (uncomment lines below)
-# links:
-# - name: PDF
-#   url: https://www.ams.org/journals/proc/2020-148-12/S0002-9939-2020-15171-4/S0002-9939-2020-15171-4.pdf
+links:
+- name: PDF
+  url: uploads/Fractal1.pdf
+- name: ArXiv
+  url: https://arxiv.org/abs/1909.05239
+
 
 url_pdf: ''
 url_code: ''

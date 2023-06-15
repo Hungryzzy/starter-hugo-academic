@@ -47,7 +47,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am a  second-year Ph.D. student in Mathematics at [Stanford University](https://math.stanford.edu/). I am broadly interested in probability theory and its applications.
+Hi! I am a second-year Ph.D. student in Mathematics at [Stanford University](https://math.stanford.edu/), advised by Prof. [Jose H. Blanchet](https://web.stanford.edu/~jblanche/). I am broadly interested in probability theory and its applications.
 
 Before, I received my bachelor’s degree in Pure Mathematics from [University of Waterloo](https://uwaterloo.ca/), where I was fortunate to work with Profs. [Yu-Ru Liu](https://uwaterloo.ca/scholar/yrliu/), [Yi Shen](https://sites.google.com/site/yishenenglish/research), [Alexander Schied](https://uwaterloo.ca/scholar/aschied) and [Ruodu Wang](https://sas.uwaterloo.ca/~wang/).
 

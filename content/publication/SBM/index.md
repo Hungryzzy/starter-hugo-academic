@@ -24,10 +24,11 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: uploads/SBM.pdf
+- name: ArXiv
+  url: https://arxiv.org/abs/2209.03999
 
 url_pdf: ''
 url_code: ''
