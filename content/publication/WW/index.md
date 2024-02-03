@@ -29,7 +29,7 @@ publishDate: '2017-01-01T00:00:00Z'
 abstract: 'We introduce a new class of stochastic processes called fractional Wiener-Weierstrass bridges. They arise by applying the convolution from the construction of the classical, fractal Weierstrass functions to an underlying fractional Brownian bridge. By analyzing the $p$-th variation of the fractional Wiener-Weierstrass bridge along the sequence of $b$-adic partitions, we identify two regimes in which the processes exhibit distinct sample path properties. We also analyze the critical case between those two regimes for Wiener-Weierstrass bridges that are based on standard Brownian bridge. We furthermore prove that fractional Wiener-Weierstrass bridges are never semimartingales, and we show that their covariance functions are typically fractal functions. Some of our results are extended to Weierstrass bridges based on bridges derived from a general continuous Gaussian martingale.'
 
 # Summary. An optional shortened abstract.
-summary: In submission, 2023+
+summary: To appear in Transactions of the AMS, 2024+
 
 tags: []
 

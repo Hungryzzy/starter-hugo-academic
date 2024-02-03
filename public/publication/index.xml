@@ -5,12 +5,76 @@
     <link>https://hungryzzy.github.io/publication/</link>
       <atom:link href="https://hungryzzy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hungryzzy.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://hungryzzy.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Empirical martingale projections via the adapted Wasserstein distance</title>
+      <link>https://hungryzzy.github.io/publication/mpd/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/mpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universality and Phase Transitions in Low Moments of Secular Coefficients of Critical Holomorphic Multiplicative Chaos</title>
+      <link>https://hungryzzy.github.io/publication/hmc/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/hmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Shortest Paths in Polymeric Networks using Spatial Branching Processes</title>
+      <link>https://hungryzzy.github.io/publication/sp/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When do exact and powerful p-values and e-values exist?</title>
+      <link>https://hungryzzy.github.io/publication/p-e-values/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/p-e-values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weierstrass Bridges</title>
+      <link>https://hungryzzy.github.io/publication/ww/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/ww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composite Sorting</title>
+      <link>https://hungryzzy.github.io/publication/composite-sorting/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/composite-sorting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martingale Transports and Monge Maps</title>
+      <link>https://hungryzzy.github.io/publication/monge/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/monge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions</title>
+      <link>https://hungryzzy.github.io/publication/sbm/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/sbm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simultaneous Optimal Transport</title>
