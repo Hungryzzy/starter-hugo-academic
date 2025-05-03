@@ -13,6 +13,46 @@
     </image>
     
     <item>
+      <title>Minimax Decision Trees via Martingale Approximations</title>
+      <link>https://hungryzzy.github.io/publication/decisiontree/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/decisiontree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadratic-form Optimal Transport</title>
+      <link>https://hungryzzy.github.io/publication/qot/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/qot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample Path Properties of the Fractional Wiener--Weierstrass Bridge</title>
+      <link>https://hungryzzy.github.io/publication/ww2/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/ww2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tightness Analysis of First Passage Times of $d$-Dimensional Branching Random Walk</title>
+      <link>https://hungryzzy.github.io/publication/brw2/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/brw2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the First Passage Times of Branching Random Walks in $\mathbb{R}^d$</title>
+      <link>https://hungryzzy.github.io/publication/brw1/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/brw1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Empirical martingale projections via the adapted Wasserstein distance</title>
       <link>https://hungryzzy.github.io/publication/mpd/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
